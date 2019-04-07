@@ -1,3 +1,5 @@
+// This is a guessing game. \nYou have 3 chances to guess the correct number between 1 to 15.
+// Created by: Kamal Chandra Paul
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
